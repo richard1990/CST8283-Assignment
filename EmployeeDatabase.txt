@@ -1,0 +1,2 @@
+Employee ID	Full name		Birthday	Start date	Weekly pay	Weekly tax
+15674		Richard Barney		1960-01-01	2016-01-08	$19230.77	$5769.23
